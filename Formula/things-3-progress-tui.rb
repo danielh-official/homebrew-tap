@@ -1,4 +1,4 @@
-class ThingsProgress < Formula
+class Things3ProgressTui < Formula
   include Language::Python::Virtualenv
 
   desc "Textual TUI that shows progress bars for Things 3 projects and headings"
